@@ -1,5 +1,6 @@
 # DATATHON ESPM 2026 
 **Meridional · Inteligência com evidências**
+
 **Converse com os dados. Compare cenários. Entenda o que sustenta cada resultado.**
 
 Projeto da equipe **Coffeelanders** para o Datathon ESPM 2026, voltado à análise dos efeitos da reforma tributária no desafio da Atacadista Meridional.
