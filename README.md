@@ -94,4 +94,4 @@ Abra o endereço local informado no terminal. As instruções detalhadas estão 
 
 ## Escala e resultados verificados
 
-A referência contém **15.000 itens**, **1.387 chaves de nota**, **95 códigos de produto** e **19 fornecedores**. CSV final, JSON da v5 e base de itens apresentam os mesmos pares `chave + nItem`, sem duplicatas ou registros sem correspondência nessa junção.
+A referência contém **15.000 itens**, **1.387 chaves de nota**, **95 códigos de produto** e **19 fornecedores**. CSV final, JSON da v5 e base de itens apresentam os mesmos pares `chave + nItem`, sem duplicatas ou registros sem correspondência nessa junção, foi feito o tratamento com código em python.
